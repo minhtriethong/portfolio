@@ -1,4 +1,4 @@
-baseURL = "http://minhtriethong.github.io/portfolio/"
+baseURL = "https://minhtriethong.github.io/portfolio/"
 languageCode = "en-us"
 title = "aka Atonidas"
 theme = "anatole"
@@ -9,6 +9,7 @@ enableEmoji = true
     author = "Hồng Minh Triết"
     description = """
     Born on November 2<sup>nd</sup> ,1990 in Saigon, Vietnam
+
     """
     profilePicture = "images/profile.jpg"
     mainSections = [""]
