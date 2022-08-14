@@ -7,7 +7,9 @@ enableEmoji = true
 [params]
     title = "HỒNG MINH TRIẾT"
     author = "Hồng Minh Triết"
-    description = "Call me /'treat/"
+    description = """
+    Born on November 2<sup>nd</sup> ,1990 in Saigon, Vietnam
+    """
     profilePicture = "images/profile.jpg"
     mainSections = [""]
 
