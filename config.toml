@@ -2,44 +2,34 @@ baseURL = "http://minhtriethong.github.io/portfolio/"
 languageCode = "en-us"
 title = "aka Atonidas"
 theme = "anatole"
+enableEmoji = true
 
 [params]
-title = "HỒNG MINH TRIẾT"
-author = "Hồng Minh Triết"
-description = "Call me /'treat/"
-profilePicture = "images/profile.jpg"
+    title = "HỒNG MINH TRIẾT"
+    author = "Hồng Minh Triết"
+    description = "Call me /'treat/"
+    profilePicture = "images/profile.jpg"
+    mainSections = [""]
 
 [[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://de.linkedin.com/"
+    icon = "fab fa-linkedin"
+    title = "Linkedin"
+    url = "https://www.linkedin.com/in/hongminhtriet/"
 
 [[params.socialIcons]]
-icon = "fab fa-instagram"
-title = "Instagram"
-url = "https://de.linkedin.com/"
+    icon = "fab fa-instagram"
+    title = "Instagram"
+    url = "https://www.instagram.com/atonidas/"
 
 [[params.socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:mail@example.com"
+    icon = "fas fa-envelope"
+    title = "e-mail"
+    url = "mailto:minhtriet.hong@gmail.com"
 
 [menu]
-
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
 
   [[menu.main]]
   name = "Posts"
   weight = 200
   identifier = "posts"
   url = "/post/"
-
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
