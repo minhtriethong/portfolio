@@ -20,6 +20,11 @@ enableEmoji = true
     url = "https://www.linkedin.com/in/hongminhtriet/"
 
 [[params.socialIcons]]
+    icon = "fas fa-graduation-cap"
+    title = "Google Scholar"
+    url = "https://scholar.google.com/citations?user=1wiRNJEAAAAJ&hl=en"
+
+[[params.socialIcons]]
     icon = "fab fa-instagram"
     title = "Instagram"
     url = "https://www.instagram.com/atonidas/"
@@ -30,9 +35,14 @@ enableEmoji = true
     url = "mailto:minhtriet.hong@gmail.com"
 
 [menu]
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Portfolio"
   weight = 200
-  identifier = "posts"
-  url = "/post/"
+  identifier = "portfolio"
+  url = "/portfolio/"
