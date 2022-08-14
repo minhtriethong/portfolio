@@ -41,8 +41,14 @@ enableEmoji = true
   weight = 100
   url = "/"
 
+  # [[menu.main]]
+  # name = "Portfolio"
+  # weight = 200
+  # identifier = "portfolio"
+  # url = "/portfolio/"
+
   [[menu.main]]
-  name = "Portfolio"
-  weight = 200
-  identifier = "portfolio"
-  url = "/portfolio/"
+  name = "Posts"
+  weight = 300
+  identifier = "posts"
+  url = "/post/"
