@@ -1,0 +1,18 @@
+#sidebar {
+    padding-top: 5rem;
+}
+.sidebar-content {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+body {
+    font-family: "Roboto",Helvetica,Arial,sans-serif;
+    font-size: 1.7rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #111;
+    background-color: #f5f5f5;
+}
+.content-column {
+    padding-top: 2.5rem;
+}

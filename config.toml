@@ -2,3 +2,30 @@ baseURL = "https://minhtriethong.github.io/"
 languageCode = "en-us"
 title = "Hong Minh Triet"
 theme = "creative"
+enableEmoji = true
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "Describe your website"
+  copyright = "©2022 Hong Minh Triet"
+  sidebarAbout = [
+    "I am a researcher and a illustrator from Saigon, Vietnam"
+  ]
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "about/"
+  home = true
+
+  [[params.navlinks]]
+  name = "Portfolio"
+  url = "portfolio/"
+
+  [params.social]
+  facebook      = "https://www.facebook.com/atonidas/"
+  email         = "mailto:minhtriet.hong@gmail.com"
+  linkedin      = "https://www.linkedin.com/in/hongminhtriet/"
+  instagram     = "https://www.instagram.com/atonidas/"
