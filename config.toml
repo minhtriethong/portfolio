@@ -1,4 +1,4 @@
-baseURL = "https://minhtriethong.github.io/"
+baseURL = "https://www.atonidas.com"
 languageCode = "en-us"
 title = "Hong Minh Triet"
 theme = "creative"
@@ -11,7 +11,7 @@ enableEmoji = true
   description = "Describe your website"
   copyright = "©2022 Hong Minh Triet"
   sidebarAbout = [
-    "I am a researcher and a illustrator from Saigon, Vietnam"
+    "I am a researcher and a illustrator from Saigon, Vietnam."
   ]
 
   # Nav links in the side bar
