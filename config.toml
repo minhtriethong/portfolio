@@ -11,7 +11,7 @@ enableEmoji = true
   description = "Describe your website"
   copyright = "©2022 Hong Minh Triet"
   sidebarAbout = [
-    "I am a researcher and a illustrator from Saigon, Vietnam."
+    "I am a biology researcher and a graphic designer from Saigon, Vietnam."
   ]
 
   # Nav links in the side bar
@@ -29,3 +29,4 @@ enableEmoji = true
   email         = "mailto:minhtriet.hong@gmail.com"
   linkedin      = "https://www.linkedin.com/in/hongminhtriet/"
   instagram     = "https://www.instagram.com/atonidas/"
+  googlescholar = "https://scholar.google.com/citations?user=1wiRNJEAAAAJ&hl=en"

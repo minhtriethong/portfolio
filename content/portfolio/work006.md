@@ -1,0 +1,8 @@
++++
+showonlyimage = true
+draft = false
+image = "img/portfolio/006_discipline.jpg"
+date = "2016-11-05T18:25:22+05:30"
+title = "Tattoo design"
+weight = 6
++++

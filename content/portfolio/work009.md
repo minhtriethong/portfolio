@@ -1,0 +1,8 @@
++++
+showonlyimage = true
+draft = false
+image = "img/portfolio/009_interior-design-2.jpg"
+date = "2016-11-05T18:25:22+05:30"
+title = "Interior design"
+weight = 9
++++
