@@ -8,6 +8,9 @@
 .content-column {
     padding-top: 2.5rem;
 }
+.col-lg-8 {
+    width: 100%;
+}
 .sidebar-p {
     color: #999999;
     font-size: 16px;
