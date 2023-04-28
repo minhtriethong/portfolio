@@ -6,6 +6,8 @@ To push update to github
 5. git add .
 6. git commit -m "message"
 7. git push
+8. Go to the github repository (https://github.com/minhtriethong/portfolio)
+9. Go to tab:Setting --> Pages --> custom domain --> Type `www.atonidas.www` --> Save
 
 To update about me
 1. Update file content/_index.md

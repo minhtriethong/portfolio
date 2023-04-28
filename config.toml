@@ -42,10 +42,10 @@ enableEmoji = true
   url = "/"
 
   # [[menu.main]]
-  # name = "Portfolio"
+  # name = "Gallery"
   # weight = 200
-  # identifier = "portfolio"
-  # url = "/portfolio/"
+  # identifier = "gallery"
+  # url = "/gallery/"
 
   [[menu.main]]
   name = "Posts"
